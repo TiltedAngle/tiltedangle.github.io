@@ -22,7 +22,7 @@ TiltedAngle plays for the local club as a goalkeeper and  plays in competitive t
 
 **RICKROLLING**
 
-TiltedAngle loves rickrolling and normally rickrolls his friends. He uses [this URL shortener](https://youtu.be/dQw4w9WgXcQ) to hide the link of the rickroll. 
+TiltedAngle loves rickrolling and normally rickrolls his friends. He uses [this URL shortener](https://bit.ly/3z81FJ2) to hide the link of the rickroll. 
 
 **HACKING** 
 
