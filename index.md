@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## TILTEDANGLE
 
-You can use the [editor on GitHub](https://github.com/TiltedAngle/tiltedangle.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+...is a 10 year old chess player, coder, pianist, violinist, footballer, rick-roller and a hacker, who lives in the UK.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**CHESS**
 
-### Markdown
+He is  a keen chess player under the alias of [ForkPower](https://lichess.org/@/ForkPower) and plays for Barnet Junior Chess, a county chess club. Click [here](https://bit.ly/3sqpx8q) to read more.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**CODING**
 
-```markdown
-Syntax highlighted code block
+He has coded two games , one of them called Ice And Lava, which you can download [here](tiltedangle.github.io/IceAndLava)
+The second being called The Spaceship, which you can download [here](tiltedangle.github.io/TheSpaceship) 
+For more information, join the coding discord [here](https://discord.gg/a83kQgMhBw), where you can recieve updates, sneek-peeks, and BTS about his next games.
 
-# Header 1
-## Header 2
-### Header 3
+**MUSIC**
 
-- Bulleted
-- List
+TiltedAngle is a ABRSM Grade 2 Piano Player, currently working on Allegro, The First Flakes Are Falling, and Inter-City Stomp. He also plays violin at school.
 
-1. Numbered
-2. List
+**FOOTBALL**
 
-**Bold** and _Italic_ and `Code` text
+TiltedAngle plays for the local club as a goalkeeper and  plays in competitive tournaments regularly.
 
-[Link](url) and ![Image](src)
-```
+**RICKROLLING**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+TiltedAngle loves rickrolling and normally rickrolls his friends. He uses [this URL shortener](https://youtu.be/dQw4w9WgXcQ) to hide the link of the rickroll. 
 
-### Jekyll Themes
+**HACKING** 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TiltedAngle/tiltedangle.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+He uses basic plugins to hack his friends, and confuse them!
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Other Hobbies
+
+TiltedAngle also swims at the pool often, and has swam 1.55 KM (1550m) without stopping!
+
+TiltedAngle has also climbed GB's Three Peaks (Mt. Snowdon, Scafell Pike, Ben Nevis)!
