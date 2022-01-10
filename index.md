@@ -1,6 +1,6 @@
 ## TILTEDANGLE
 
-...is a 10 year old chess player, coder, pianist, violinist, footballer, rick-roller and a hacker, who lives in the UK.
+...is a 10 year old chess player, coder, pianist, violinist, footballer, rick-roller and a hacker, who lives in the UK. 
 
 **CHESS**
 
@@ -9,7 +9,7 @@ He is  a keen chess player under the alias of [ForkPower](https://lichess.org/@/
 **CODING**
 
 He has coded two games , one of them called Ice And Lava, which you can download [here](tiltedangle.github.io/IceAndLava).
-The second is called The Spaceship, which you can download [here](tiltedangle.github.io/TheSpaceship). His third game (PACMAN) is available [here](https://bit.ly/3GJhsT9).
+The second is called The Spaceship, which you can download [here](tiltedangle.github.io/TheSpaceship). His third game (PACMAN) is available [here](https://bit.ly/3GJhsT9). These games can be played online without downloading [here](https://tiltedangle.itch.io)
 For more information, join the coding discord [here](https://discord.gg/a83kQgMhBw), where you can recieve updates, sneek-peeks, and BTS about his next games.
 
 **MUSIC**
